@@ -1,6 +1,6 @@
 /*
  *  InputController.h
- *  SweetDreams
+ * 
  *
  *  Created by João Caxaria on 4/28/09.
  *  Copyright 2009 Imaginary Factory. All rights reserved.
